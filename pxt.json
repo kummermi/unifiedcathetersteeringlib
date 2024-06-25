@@ -1,27 +1,30 @@
 {
     "name": "unifiedCatheterSteeringLib",
-    "description": "",
+    "description": "A library for unified catheter steering control",
+    "version": "0.1.0",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "magnetisches Spielfeld mit neopixel": "github:mint-n-pepper/magnetisches-spielfeld-mit-neopixel#v0.1.9",
+        "handlebit": "github:mint-n-pepper/handlebit_controller#v0.3.1",
+        "motor": "github:DFRobot/pxt-motor#2cdf17586556c5a532782aa436c516ae50f5f316"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
-        "main.py"
+        "unifiedCatheterSteeringLib.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
+    "public": true,
     "targetVersions": {
-        "target": "6.0.28",
-        "pxt": "9.0.12",
-        "targetId": "microbit"
+        "target": "6.0.17",
+        "targetId" "microbit",
+        "pxt": "9.0.12"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
