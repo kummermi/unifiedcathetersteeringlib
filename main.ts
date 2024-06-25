@@ -1,5 +1,5 @@
 /*
-Magnetic Actuation with Advancer Inclusion
+* Magnetic Actuation with Advancer Inclusion
 */
 //% weight=10 icon="\uf11b" color=#d736ff block="NanoMed for Life" 
 namespace NMFL {
