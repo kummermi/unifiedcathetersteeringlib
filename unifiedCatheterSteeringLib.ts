@@ -2,7 +2,7 @@
 * Magnetic Actuation with Advancer Inclusion
 */
 //% weight=10 icon="\uf11b" color=#d736ff block="NanoMed for Life" 
-namespace NMFL {
+namespace unifiedCatheterSteeringLib {
     let sideBeitrag = -1
     let hauptBeitrag = -1
     let visAvisSideKick = -1
