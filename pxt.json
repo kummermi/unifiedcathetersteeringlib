@@ -4,10 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "magnetisches Spielfeld mit neopixel": "github:mint-n-pepper/magnetisches-spielfeld-mit-neopixel.git",
-        "handlebit": "github:mint-n-pepper/handlebit_controller.git",
-        "motor": "github:DFRobot/pxt-motor.git"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
